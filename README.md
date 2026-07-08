@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tamil%20Selvan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Full%20Stack%20%7C%20Hackathon%20Builder&descSize=16&descAlignY=58&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Tamil%20Selvan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Full%20Stack%20%7C%20SoftwareDeveloper&descSize=16&descAlignY=58&descColor=a0c4ff" />
 
 </div>
 
@@ -8,9 +8,9 @@
 
 ## 👋 Hey there, I'm Tamil
 
-> 6th-sem CSE student @ Coimbatore | Building real things with React, Java, FastAPI & AI APIs | Hackathon-first learner
+> Pre-final year CSE (AI/ML) @ Paavai College of Engineering, Namakkal | Building real things with React, Next.js, Spring Boot, FastAPI & AI APIs | Hackathon-first learner
 
-I learn by building — no tutorials, straight to docs and shipping. Currently on a structured 90-day sprint: DSA in Java + full-stack projects + internship prep.
+I learn by building — no tutorials, straight to docs and shipping. Currently on a structured sprint: DSA in Java + full-stack projects + internship prep (Full Stack / Java Backend / AI-ML roles).
 
 ---
 
@@ -26,16 +26,35 @@ I learn by building — no tutorials, straight to docs and shipping. Currently o
 
 ---
 
-### 🏥 MediVault — Secure AI Medical File System
-> *HackXtreme'26 project — AI-powered medical record upload and analysis*
 
-- **Stack**: React, FastAPI, AWS S3, TensorFlow
-- **Highlights**: Secure file upload pipeline, AI-based document classification, cloud storage with access control
-- 🔗 [View Repository](#)
+
+
+
+### 📺 Real-Time Video Platform — ElevanceSkills Internship
+> *A YouTube-style full-stack platform built as part of an internship, with stipend tied to rubric completion*
+
+- **Stack**: Next.js, Express, MongoDB, Node.js
+- **Highlights**: Real-time video feed, full auth flow, REST APIs, MongoDB schema design for scalable content delivery
 
 ---
 
-### 📚 AI Study Assistant for Engineering Students
+###  TaskFlow — MERN Task Tracker
+> *Full-stack task management app built for a separate internship assignment (COLL-EDGE CONNECT)*
+
+- **Stack**: MongoDB, Express, React, Node.js (MERN)
+- **Highlights**: End-to-end CRUD task workflows, clean component architecture, deployed full-stack app
+
+---
+
+###  BELVO — Premium Team Directory
+> *Contributing a polished, animation-driven team directory section*
+
+- **Stack**: React, TypeScript, Framer Motion
+- **Highlights**: Smooth motion-based UI interactions, reusable component design for a premium product feel
+
+---
+
+### AI Study Assistant for Engineering Students
 > *Yuvaa AI Stack Challenge — personalized AI tutor for engineering topics*
 
 - **Stack**: FastAPI, Anthropic API, HTML/JS
@@ -44,7 +63,7 @@ I learn by building — no tutorials, straight to docs and shipping. Currently o
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -56,13 +75,18 @@ I learn by building — no tutorials, straight to docs and shipping. Currently o
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **AI/ML**
 
@@ -78,7 +102,7 @@ I learn by building — no tutorials, straight to docs and shipping. Currently o
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -95,10 +119,10 @@ I learn by building — no tutorials, straight to docs and shipping. Currently o
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-- 📌 90-day sprint: DSA in Java + React + Spring Boot + PostgreSQL
-- 🔍 Actively seeking **internships** in Full Stack / AI/ML / Java Backend (Bangalore preferred)
+- 📌 Building a real-time full-stack video platform (Next.js + Express + MongoDB) for internship rubric completion
+- 🔍 Actively seeking **internships** in Full Stack / AI-ML / Java Backend (Bangalore, Chennai, or remote)
 - 🏆 Regular hackathon participant — HackXtreme'26 ✅ | HackColab ✅ | Sinthan AI ✅
 - 📖 Learning philosophy: **docs-first, build-first** — no tutorial watching
 
