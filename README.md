@@ -15,9 +15,8 @@
 
 ## ⚡ The Human Behind the Code
 
-I am a 6th-semester AI/ML Engineering student at Paavai Engineering College, but my real education happens in the trenches of documentation and IDEs. I don't believe in tutorial loops; I believe in building, breaking, and optimizing. 
+. 
 
-Fueled by 5:30 AM workouts and extreme discipline, my days are structured around a relentless drive to improve. Whether I'm tackling complex DSA architectures or competing in national events like StrangerHacks, I bring high energy and deep focus to everything I engineer.
 
 ### 🎯 Current Sprints
 - 🧠 **Daily Grind:** Maintaining a rigorous daily streak across LeetCode, GeeksforGeeks, and Unstop. 
